@@ -2,8 +2,8 @@
 A solar-powered atmospheric water generator optimized with quantum algorithms (QAOA &amp; QML) for the Quantum Computing Hackathon.
 Quantum-Optimized Portable Solar-Powered Backpack Water Generator
 
-# Team:Sarthak Labhade, Omkar Khond 
-**Institution:** Sanjivani University (CSE-AIML) [cite: 4]
+**Team**:Tech Masters
+**Institution:** Sanjivani University (CSE-AIML)
 **Event:** Quantum Computing Hackathon
 
 > [cite_start]“Water from Air – Anytime, Anywhere, Optimized by Quantum” [cite: 2]
